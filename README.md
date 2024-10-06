@@ -33,7 +33,7 @@ Both of these datasets contain annotations that help identify uncertain language
 
 ## Model
 
-The model is built on top of Yi Yang's [FinBERT-Pretrained model](https://huggingface.co/yiyanghkust/finbert-pretrain), which is specifically optimized for financial tasks. We have further fine-tuned it to classify sentences as either certain or uncertain, using FactBank and WikiWeasel for training.
+You can access our model at [Huggingface](https://huggingface.co/Zhenyu-Zane/Finbert-Uncertainty). The model is built on top of Yi Yang's [FinBERT-Pretrained model](https://huggingface.co/yiyanghkust/finbert-pretrain), which is specifically optimized for financial tasks. We have further fine-tuned it to classify sentences as either certain or uncertain, using FactBank and WikiWeasel for training.
 
 ## Usage
 
